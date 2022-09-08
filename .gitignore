@@ -1,0 +1,16 @@
+application_generated_data_files
+reports
+*.pyc
+*.p
+*.pickle
+*.so
+*.c
+*.xml
+*.iml
+/mnist_spikes/
+/build/
+.vscode/
+**/__pycache__/
+**/test
+venv3/
+**/.idea/
